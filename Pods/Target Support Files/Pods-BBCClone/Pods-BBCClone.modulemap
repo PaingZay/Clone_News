@@ -1,0 +1,6 @@
+framework module Pods_BBCClone {
+  umbrella header "Pods-BBCClone-umbrella.h"
+
+  export *
+  module * { export * }
+}
